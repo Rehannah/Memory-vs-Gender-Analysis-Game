@@ -5,19 +5,19 @@
 <br/>
 
 # ☄️ Contribution Guidelines ⌚
-1. [Set-up](#-setup)
+1. [Setup](#-setup)
 2. [Making changes](#-making-commits-prs-or-submitting-changes)
 3. [Suggestions, Reporting Bugs or Creating Issues](#-suggestionsbugissues-reporting)
-4. [What can I do to contribute?](#-how-to-contribute)
+4. [What can I do to contribute?](#how-to-contribute)
 5. [Have a Question?](#have-a-question)
 <br/>
 
 ## 💻 Setup 
 * Please clone the repo. This will be your working repository. For info on how to do that, [click here.](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 * The **environment** used to create the code was Bloodshed Dev-C++, however you may use VS Code or any other IDE.
-* Navigate to [|Making changes|](#making-commits-prs-or-submitting-changes) for more info on actually contributing code.
+* Navigate to [|Making changes|](#-making-commits-prs-or-submitting-changes) for more info on actually contributing code.
 <br/>
-💫 Pretty simple, right? - If you have any issues with setup, feel free to message the [repo owner]((https://github.com/Rehannah) for more info.
+💫 Pretty simple, right? - If you have any issues with setup, feel free to message the [repo owner](https://github.com/Rehannah) for more info.
 <br/>
 
 ## ⭐ Making commits, PRs or submitting changes
@@ -45,7 +45,7 @@
 * update README.md
 <br/>
 
-**Issues & Bugs:** <br/>
+**Issues & Bugs:**
 - Menu option 5 does not work.
 - Menu option 8 does not work.
 - Menu option 9 does not work.
