@@ -15,14 +15,13 @@ Please feel free to 🌟**star**, **[fork](/LICENSE)** or [**contribute to an is
 
 ### About:
 ```
-Name:	Rehannah Baptiste
-Title: Memory vs. Gender Analysis Game
-Description:  This program visualises statistics on which gender has better memory (recall) 
-              and allows users to play a memory game which adds to the data. 	
-Version 1.0: December 5th 2020
+Name:            Rehannah Baptiste
+Title:           Memory vs. Gender Analysis Game
+Description:     This program visualises statistics on which gender has better memory (recall) 
+                 and allows users to play a memory game which adds to the data. 	
+Version 1.0:     December 5th 2020
 Current version: 1.5 (2022)
-
-: Open Source MIT
+License:         Open Source MIT
 ```
 <br/>
 
