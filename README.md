@@ -26,8 +26,8 @@ License:         Open Source MIT
 <br/>
 
 ### Case study/Problem:
-**Do females have better memory than males?**
-In a [study](https://www.sciencedaily.com/releases/2016/11/161109112447.htm) it was found that [women aged 45-55 years remember better than men of the same age range](https://www.medicalnewstoday.com/articles/313998). It was also found that [the average person’s short-term memory lasts 15-30 seconds and can remember 5-9 items in short term memory](https://www.simplypsychology.org/short-term-memory.html). These statistics were used to implement this program and test whether these claims can be replicated.
+* **Do females have better memory than males?**
+- In a [study](https://www.sciencedaily.com/releases/2016/11/161109112447.htm) it was found that [women aged 45-55 years remember better than men of the same age range](https://www.medicalnewstoday.com/articles/313998). It was also found that [the average person’s short-term memory lasts 15-30 seconds and can remember 5-9 items in short term memory](https://www.simplypsychology.org/short-term-memory.html). These statistics were used to implement this program and test whether these claims can be replicated.
 
 <br/>
 
