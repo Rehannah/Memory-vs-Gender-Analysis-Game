@@ -1,7 +1,7 @@
 # Memory-vs-Gender-Analysis-Game
 *Visualises statistics to determine which gender has better memory (recall) and includes a memory game.* **Built with C++.**
 
-Please feel free to 🌟**star**, **[fork](/LICENSE.txt)** or [**contribute to an issue**](/CONTRIBUTING.md) in this repository.
+Please feel free to 🌟**star**, **[fork](/LICENSE)** or [**contribute to an issue**](https://github.com/Rehannah/Memory-vs-Gender-Analysis-Game/issues) in this repository.
 <br/><br/>
 
 ## Table of Content:
@@ -21,7 +21,8 @@ Description:  This program visualises statistics on which gender has better memo
               and allows users to play a memory game which adds to the data. 	
 Version 1.0: December 5th 2020
 Current version: 1.5 (2022)
-License: Open Source MIT
+
+: Open Source MIT
 ```
 <br/>
 
@@ -40,19 +41,21 @@ In a study it was found that women aged 45-55 years remember better than men of 
 ### Features of the program:
 -	Main Menu to aid in navigation in the program
 -	Statistics:
-1.	Finds the sum of words recalled by males and females (Menu option 1)
-2.	Finds the average number of words recalled by males and females (Menu option 1)
-3.	Finds and displays the total number of attempts and the percentage of attempts made by males and females (Menu option 2)
-4.	Finds the top player, i.e., the person with the highest score in the least number of attempts (Menu option 3)
-5.	Finds the highest male and female score (Menu option 4)
-6.	Finds the number of players who recalled x words or more (Menu option 6)
+    1.	Finds the sum of words recalled by males and females (Menu option 1)
+    2.	Finds the average number of words recalled by males and females (Menu option 1)
+    3.	Finds and displays the total number of attempts and the percentage of attempts made by males and females (Menu option 2)
+    4.	Finds the top player, i.e., the person with the highest score in the least number of attempts (Menu option 3)
+    5.	Finds the highest male and female score (Menu option 4)
+    6.	Finds the number of players who recalled x words or more (Menu option 6)
 -	Rename a player. (Menu option 5)
 -	Generates a graph visualising all player data (Menu option 7)
 -	View all saved highscores (Menu option 9)
--	**Surprise feature:** Memory game (Menu option 8)
-The memory game tests players' ability to recall words. Their score is saved as a new value in the data file.
-***How to play:***
-When you start the game, words will flash on screen one by one. After all the words have been displayed, users must type as many as they can remember in any order. The score is the number of words remembered.
+-	**Surprise feature:** Memory game (Menu option 8) <br/>
+    The memory game tests player's ability to recall words. Their score is saved as a new value in the data file. <br/> <br/>
+    ***How to play:*** <br/>
+    When you start the game, words will flash on screen one by one. <br/>
+    After all the words have been displayed, users must type as many as they can remember in any order. <br/>
+    The score is the number of words remembered. <br/>
  
 <br/>
 
@@ -64,7 +67,6 @@ See more info on contribution guidelines in the [CONTRIBUTING.md](/CONTRIBUTING.
 - store male and female data in a struct - more efficient
 - allow for a bigger word bank, so that the word list can be randomised.
 - update README.md
-<br/>
 
 ### Issues & Bugs:
 - Menu option 5 does not work.
