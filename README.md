@@ -1,22 +1,21 @@
-# Memory-vs-Gender-Analysis-Game
-* Visualises statistics to determine which gender has better memory (recall) and includes a memory game. *Built with C++.*
+# Memory vs Gender Analysis Game
+*Visualises statistics to determine which gender has better memory (recall) and includes a memory game.* **Built with C++.**
 
 Please feel free to 🌟**star**, **[fork](/LICENSE)** or [**contribute to an issue**](https://github.com/Rehannah/Memory-vs-Gender-Analysis-Game/issues) in this repository.
-<br/><br/>
+<br/>
 
-## Table of Content:
+## Table of Contents:
 [ ✲ About](#about) <br/>
 [ ✲ Case Study/Problem](#case-studyproblem) <br/>
 [ ✲ Files Explained](#files-in-this-project) <br/>
 [ ✲ Features Explained](#features-of-the-program) <br/>
 [ ✲ TODO - things to implement later, bugs & issues](#todo) <br/>
-
 <br/>
 
 ### About:
 ```
 Name:            Rehannah Baptiste
-Title:           Memory vs. Gender Analysis Game
+Title:           Memory vs Gender Analysis Game
 Description:     This program visualises statistics on which gender has better memory (recall) 
                  and allows users to play a memory game which adds to the data. 	
 Version 1.0:     December 5th 2020
@@ -27,10 +26,8 @@ License:         Open Source MIT
 
 ### Case study/Problem:
 * **Do females have better memory than males?**
-- In a [study](https://www.sciencedaily.com/releases/2016/11/161109112447.htm) it was found that [women aged 45-55 years remember better than men of the same age range](https://www.medicalnewstoday.com/articles/313998).
-- It was also found that [the average person’s short-term memory lasts 15-30 seconds and can remember 5-9 items in short term memory](https://www.simplypsychology.org/short-term-memory.html).
+- In a [study](https://www.sciencedaily.com/releases/2016/11/161109112447.htm) it was found that [women aged 45-55 years remember better than men of the same age range](https://www.medicalnewstoday.com/articles/313998). It was also found that [the average person’s short-term memory lasts 15-30 seconds and can remember 5-9 items in short term memory](https://www.simplypsychology.org/short-term-memory.html).
 - These statistics were used to implement this program and test whether these claims can be replicated.
-
 <br/>
 
 ### Files in this project:
@@ -58,8 +55,6 @@ License:         Open Source MIT
     When you start the game, words will flash on screen one by one. <br/>
     After all the words have been displayed, users must type as many as they can remember in any order. <br/>
     The score is the number of words remembered. <br/>
- 
-<br/>
 
 ## TODO
 See more info on contribution guidelines in the [CONTRIBUTING.md](/CONTRIBUTING.md) file.
@@ -75,7 +70,6 @@ See more info on contribution guidelines in the [CONTRIBUTING.md](/CONTRIBUTING.
 - Menu option 5 does not work.
 - Menu option 8 does not work.
 - Menu option 9 does not work.
-<br/><br/>
-
+<br/>
 
 [Back to top ⬆ ](#table-of-content)
