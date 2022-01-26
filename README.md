@@ -1,5 +1,6 @@
 # Memory vs Gender Analysis Game
 *Visualises statistics to determine which gender has better memory (recall) and includes a memory game.* **Built with C++.**
+
 Please feel free to 🌟**star**, **[fork](/LICENSE)** or [**contribute to an issue**](https://github.com/Rehannah/Memory-vs-Gender-Analysis-Game/issues) in this repository.
 <br/>
 
@@ -25,13 +26,15 @@ License:         Open Source MIT
 
 ### Case study/Problem:
 * **Do females have better memory than males?**
-- In a [study](https://www.sciencedaily.com/releases/2016/11/161109112447.htm) it was found that [women aged 45-55 years remember better than men of the same age range](https://www.medicalnewstoday.com/articles/313998). It was also found that [the average person’s short-term memory lasts 15-30 seconds and can remember 5-9 items in short term memory](https://www.simplypsychology.org/short-term-memory.html). These statistics were used to implement this program and test whether these claims can be replicated.
+- In a [study](https://www.sciencedaily.com/releases/2016/11/161109112447.htm) it was found that [women aged 45-55 years remember better than men of the same age range](https://www.medicalnewstoday.com/articles/313998). It was also found that [the average person’s short-term memory lasts 15-30 seconds and can remember 5-9 items in short term memory](https://www.simplypsychology.org/short-term-memory.html).
+- These statistics were used to implement this program and test whether these claims can be replicated.
 <br/>
 
 ### Files in this project:
--	**“highscores.txt”** is the input data file listing the name, gender, number of words remembered and number of attempts by x number of users/players terminated by "-1".
--	**“words.txt”** is a word list containing the words for the memory game, terminated by "END".
--	**“newhighscores.txt”** is the output data file containing all highscores for all players, including any new data and terminated by "-1".
+-	``“highscores.txt”`` is the input data file listing the name, gender, number of words remembered and number of attempts by x number of users/players terminated by "-1".
+-	``“words.txt”`` is a word list containing the words for the memory game, terminated by "END".
+-	``“newhighscores.txt”`` is the output data file containing all highscores for all players, including any new data and terminated by "-1".
+
 <br/>
 
 ### Features of the program:
@@ -58,7 +61,7 @@ See more info on contribution guidelines in the [CONTRIBUTING.md](/CONTRIBUTING.
 <br/>
 
 ### To be implemented:
-- store male and female data in a struct - more efficient.
+- more efficient data structures for storing the data.
 - allow for a bigger word bank, so that the word list can be randomised.
 - include a larger data set of player data.
 - update [README.md](/README.md)
