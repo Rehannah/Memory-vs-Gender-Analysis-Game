@@ -656,10 +656,10 @@ int main() {
 			char player_gender;
 			int player_attempt;
 			for (i=0;i<numOfdata;i++) {
-				score = player[i].score;
-				name = player[i].name;
-				gender = player[i].gender;
-				attempt=player[i].attempt;
+				player_score = player[i].score;
+				player_name = player[i].name;
+				player_gender = player[i].gender;
+				player_attempt=player[i].attempt;
 				out <<  player_score << " " << player_name << " "  << player_gender << " "  << player_attempt << endl;
 				cout << player_score << " " << player_name << " "  << player_gender << " "  << player_attempt << endl;
 			}
