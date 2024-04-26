@@ -2,13 +2,12 @@
 	Program Title: Memory vs Gender Analysis Game
 	Program description:   This program visualises statistics to determine which gender has better memory (recall)
 						   and allows users to play a memory game which adds to the data. 	
-	Version 1.0: December 5th 2020
-	Current version: 1.5 (2022)		*/
+*/
 
 #include <iostream>
 #include <iomanip>
 #include <conio.h>
-#include<windows.h>
+#include <windows.h>
 #include <fstream>
 #include <cmath>
 
@@ -135,8 +134,8 @@ void Rename(Player player, string newName) { // renames a player
 	out.open (newfile);
 
 	cout << "Changing name..." <<endl;
-	cout << player.score << " " << newName << " " << player.gender << " " << player.attempt << endl; 		
 	player.name=newName;
+	cout << player.score << " " << player.name << " " << player.gender << " " << player.attempt << endl; 		
 	cout << "Saving changes..." <<endl;
 	
 	Sleep(1000);
@@ -652,9 +651,17 @@ int main() {
 		
 		if (sel==9) { //save data to files & view data
 			cout << "Data saved to '" << newfile << endl;
+			int player_score;
+			string player_name;
+			char player_gender;
+			int player_attempt;
 			for (i=0;i<numOfdata;i++) {
-				out << player[i].score << " " << player[i].name << " "  << player[i].gender << " "  << player[i].attempt <<endl;
-				cout << player[i].score << " " << player[i].name << " "  << player[i].gender << " "  << player[i].attempt <<endl;
+				score = player[i].score;
+				name = player[i].name;
+				gender = player[i].gender;
+				attempt=player[i].attempt;
+				out <<  player_score << " " << player_name << " "  << player_gender << " "  << player_attempt << endl;
+				cout << player_score << " " << player_name << " "  << player_gender << " "  << player_attempt << endl;
 			}
 			out << -1;
 		
